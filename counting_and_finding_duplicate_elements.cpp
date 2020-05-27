@@ -1,5 +1,5 @@
 #include<iostream>
-using namespacec std;
+using namespace std;
 
 int main(){
     int a[] = {3,6,8,8,10,12,15,15,15,20};
